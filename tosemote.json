@@ -1,0 +1,15 @@
+{
+    "name": "ToS-Emotes",
+    "emotes": {
+        "[popMeddy]": {
+            "size": 70, 
+            "type": "image",
+            "url": "http://i.imgur.com/2oXITsC.png"
+        },
+        "[popRainbow]": {
+            "size": 70, 
+            "type": "image",
+            "url": "http://i.imgur.com/ENzWfnX.png"
+        }
+    }
+}
